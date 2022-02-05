@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/atokupki-vk/static/css/main.94d9d93e.chunk.css",
+    "main.js": "/atokupki-vk/static/js/main.22c8afe5.chunk.js",
+    "main.js.map": "/atokupki-vk/static/js/main.22c8afe5.chunk.js.map",
+    "runtime-main.js": "/atokupki-vk/static/js/runtime-main.2ae7cb6d.js",
+    "runtime-main.js.map": "/atokupki-vk/static/js/runtime-main.2ae7cb6d.js.map",
+    "static/css/2.a2ab3232.chunk.css": "/atokupki-vk/static/css/2.a2ab3232.chunk.css",
+    "static/js/2.b32ed8ea.chunk.js": "/atokupki-vk/static/js/2.b32ed8ea.chunk.js",
+    "static/js/2.b32ed8ea.chunk.js.map": "/atokupki-vk/static/js/2.b32ed8ea.chunk.js.map",
+    "index.html": "/atokupki-vk/index.html",
+    "static/css/2.a2ab3232.chunk.css.map": "/atokupki-vk/static/css/2.a2ab3232.chunk.css.map",
+    "static/css/main.94d9d93e.chunk.css.map": "/atokupki-vk/static/css/main.94d9d93e.chunk.css.map",
+    "static/js/2.b32ed8ea.chunk.js.LICENSE.txt": "/atokupki-vk/static/js/2.b32ed8ea.chunk.js.LICENSE.txt",
+    "static/media/persik.ae9f0072.png": "/atokupki-vk/static/media/persik.ae9f0072.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.2ae7cb6d.js",
+    "static/css/2.a2ab3232.chunk.css",
+    "static/js/2.b32ed8ea.chunk.js",
+    "static/css/main.94d9d93e.chunk.css",
+    "static/js/main.22c8afe5.chunk.js"
+  ]
+}
